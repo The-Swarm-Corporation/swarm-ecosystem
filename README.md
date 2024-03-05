@@ -1,7 +1,7 @@
 
 # Swarm Ecosystem
 
-Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks designed to empower developers to build, deploy, and scale swarms of autonomous agents for a variety of applications. Dive into our ecosystem below:
+Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks designed to empower developers to orhestrate swarms of autonomous agents for a variety of applications. Dive into our ecosystem below:
 
 | Project | Description | Link |
 | ------- | ----------- | ---- |

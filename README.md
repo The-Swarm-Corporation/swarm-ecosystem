@@ -14,7 +14,7 @@ Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks de
 
 ## Community
 
-Join our growing community around the world for real-time support, ideas, and discussions on Swarms 😊 
+Join our community for real-time support, ideas, and discussions on Swarms 😊 
 
 - View our official [Blog](https://swarms.apac.ai)
 - Chat live with us on [Discord](https://discord.gg/kS3rwKs3ZC)

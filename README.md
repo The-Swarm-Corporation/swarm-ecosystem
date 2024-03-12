@@ -10,7 +10,7 @@ Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks de
 | **Swarms Core** | Provides backend utilities focusing on concurrency, multi-threading, and advanced execution strategies, developed in Rust for maximum efficiency and performance. | [Swarms Core](https://github.com/kyegomez/swarms-core) |
 | **Swarm Foundation Models** | A dedicated repository for the creation, optimization, and training of groundbreaking swarming models. Features innovative models like PSO with transformers, ant colony optimizations, and more, aiming to surpass traditional architectures like Transformers and SSMs. Open for community contributions and ideas. | [Swarm Foundation Models](https://github.com/kyegomez/swarms-pytorch) |
 | **Swarm Platform** | The Swarms dashboard Platform | [Swarm Platform](https://swarms.world/) |
-| **Swarms JS** | Swarms Framework in JS. Orchestrate any agents and enable multi-agent collaboration between various agents! | [Swarm JS]([https://swarms.world/](https://github.com/kyegomez/swarms-js)) |
+| **Swarms JS** | Swarms Framework in JS. Orchestrate any agents and enable multi-agent collaboration between various agents! | [Swarm Foundation Models](https://github.com/kyegomez/swarms-js) |
 
 
 

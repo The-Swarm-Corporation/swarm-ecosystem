@@ -7,3 +7,6 @@
 [submodule "swarms-js"]
 	path = swarms-js
 	url = ../swarms-js
+[submodule "swarms-cloud"]
+	path = swarms-cloud
+	url = ../swarms-cloud

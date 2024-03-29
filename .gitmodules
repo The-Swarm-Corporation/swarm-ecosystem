@@ -1,0 +1,3 @@
+[submodule "swarms"]
+	path = swarms
+	url = ../swarms

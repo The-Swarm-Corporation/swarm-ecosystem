@@ -1,0 +1,15 @@
+[submodule "swarms"]
+	path = swarms
+	url = ../swarms
+[submodule "swarms-core"]
+	path = swarms-core
+	url = ../swarms-core
+[submodule "swarms-js"]
+	path = swarms-js
+	url = ../swarms-js
+[submodule "swarms-cloud"]
+	path = swarms-cloud
+	url = ../swarms-cloud
+[submodule "swarms-platform"]
+	path = swarms-platform
+	url = ../swarms-platform

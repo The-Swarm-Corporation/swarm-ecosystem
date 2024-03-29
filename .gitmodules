@@ -1,3 +1,6 @@
 [submodule "swarms"]
 	path = swarms
 	url = ../swarms
+[submodule "swarms-core"]
+	path = swarms-core
+	url = ../swarms-core

@@ -13,6 +13,3 @@
 [submodule "swarms-platform"]
 	path = swarms-platform
 	url = ../swarms-platform
-[submodule "swarm-ecosystem"]
-	path = swarm-ecosystem
-	url = ../swarm-ecosystem

@@ -3,6 +3,9 @@
 
 Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks designed to empower developers to orhestrate swarms of autonomous agents for a variety of applications. Dive into our ecosystem below:
 
+## Getting Started
+``git clone --recurse-submodules https://github.com/kyegomez/swarm-ecosystem``
+
 | Project | Description | Link |
 | ------- | ----------- | ---- |
 | **Swarms Framework** | A Python-based framework that enables the creation, deployment, and scaling of reliable swarms of autonomous agents aimed at automating complex workflows. | [Swarms Framework](https://github.com/kyegomez/swarms) |
@@ -13,6 +16,7 @@ Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks de
 | **Swarms JS** | Swarms Framework in JS. Orchestrate any agents and enable multi-agent collaboration between various agents! | [Swarm JS](https://github.com/kyegomez/swarms-js) |
 
 
+To clone this repository and pull all submodules, use the following command:
 
 ----
 

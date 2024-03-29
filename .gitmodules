@@ -10,3 +10,6 @@
 [submodule "swarms-cloud"]
 	path = swarms-cloud
 	url = ../swarms-cloud
+[submodule "swarms-platform"]
+	path = swarms-platform
+	url = ../swarms-platform

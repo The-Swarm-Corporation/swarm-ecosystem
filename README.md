@@ -15,9 +15,6 @@ Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks de
 | **Swarm Platform** | The Swarms dashboard Platform | [Swarm Platform](https://github.com/kyegomez/swarms-platform) |
 | **Swarms JS** | Swarms Framework in JS. Orchestrate any agents and enable multi-agent collaboration between various agents! | [Swarm JS](https://github.com/kyegomez/swarms-js) |
 
-
-To clone this repository and pull all submodules, use the following command:
-
 ----
 
 ## 🫶 Contributions:

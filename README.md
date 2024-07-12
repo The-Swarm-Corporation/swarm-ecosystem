@@ -16,6 +16,7 @@ Welcome to the Swarm Ecosystem, a comprehensive suite of tools and frameworks de
 | **Swarms JS** | Swarms Framework in JS. Orchestrate any agents and enable multi-agent collaboration between various agents! | [Swarm JS](https://github.com/kyegomez/swarms-js) |
 | **Swarms Memory** | Easy to use, reliable, and bleeding-edge RAG systems.! | [Swarm JS](https://github.com/kyegomez/swarms-memory) |
 | **Swarms Evals** | Evaluating Swarms! | [Swarm JS](https://github.com/kyegomez/swarms-evals) |
+| **Swarms Zero** | RPC Enterprise-Grade Automation Framework | [Swarm Zero]([https://github.com/kyegomez/swarms-evals](https://github.com/kyegomez/Zero)) |
 
 ----
 
